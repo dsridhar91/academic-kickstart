@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher"
+  company = "Columbia University Data Science Institute"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New York, NY"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Working with David Blei on causal inference and probabilistic modeling."""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Student Researcher"
+  company = "UC Santa Cruz"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Santa Cruz, CA"
+  date_start = "2013-09-20"
+  date_end = "2018-09-01"
+  description = """Worked with Lise Getoor on structured and causal models for social behavior and biology."""
+  
+   [[experience]]
+  title = "Data Scientist Intern"
+  company = "Microsoft Corp."
+  company_url = ""
+  location = "Bellevue, WA"
+  date_start = "2016-06-15"
+  date_end = "2016-09-04"
+  description = """Improved quality of Bing rich text ads."""
+  
+  [[experience]]
+  title = "Data Scientist Intern"
+  company = "Microsoft Corp."
+  company_url = ""
+  location = "Bellevue, WA"
+  date_start = "2015-06-15"
+  date_end = "2015-09-04"
+  description = """Modeled user click behavior for Bing Native Ads."""
 +++
