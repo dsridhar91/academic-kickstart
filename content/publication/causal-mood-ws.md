@@ -14,6 +14,9 @@ date: 2018-01-01
 featured: false
 draft: false
 
+links:
+url_pdf: https://linqs.soe.ucsc.edu/sites/default/files/papers/sridhar-causalml18_1.pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

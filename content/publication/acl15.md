@@ -14,6 +14,9 @@ date: 2015-01-01
 featured: false
 draft: false
 
+links:
+url_pdf: https://www.aclweb.org/anthology/P15-1012
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

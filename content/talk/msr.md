@@ -14,6 +14,9 @@ featured: false
 draft: false
 all_day: true
 
+links:
+url_video: https://www.microsoft.com/en-us/research/video/structured-probabilistic-models-for-computational-social-science/
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
