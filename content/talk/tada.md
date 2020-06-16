@@ -2,20 +2,17 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Using Text Embeddings for Causal Inference"
+event: Invited Talk
+location: 10th Annual New Directions in Analyzing Text as Data (TADA 2019)
 subtitle: ""
-publication: "10th Annual New Directions in Analyzing Text as Data (TADA 2019)"
-publication_types: ["1"]
 summary: ""
-authors: [Victor Veitch, Dhanya Sridhar, David Blei]
+authors: [Dhanya Sridhar]
 tags: []
 categories: []
-date: 2019-10-01
-#lastmod: 2019-06-07T16:08:14-04:00
+date: 2019-10-04
 featured: false
 draft: false
-
-links:
-url_pdf: https://arxiv.org/pdf/1905.12741.pdf
+all_day: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Using Text Embeddings for Causal Inference"
+title: "Adapting Text Embeddings for Causal Inference"
 subtitle: ""
-publication: "10th Annual New Directions in Analyzing Text as Data (TADA 2019)"
+publication: "Conference on Uncertainty in Artificial Intelligence (UAI)"
 publication_types: ["1"]
 summary: ""
-authors: [Victor Veitch, Dhanya Sridhar, David Blei]
+authors: [Dhanya Sridhar*, Victor Veitch*,  David Blei]
 tags: []
 categories: []
-date: 2019-10-01
+date: 2020-06-01
 #lastmod: 2019-06-07T16:08:14-04:00
 featured: false
 draft: false

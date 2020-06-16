@@ -3,7 +3,8 @@
 
 title: "Equal Opportunities and Affirmative Action via Counterfactual Predictions"
 subtitle: ""
-publication_types: ["3"]
+publication: "NeurIPS 2019 Workshop on Causal ML"
+publication_types: ["0"]
 summary: ""
 authors: [Yixin Wang, Dhanya Sridhar, David Blei]
 tags: []

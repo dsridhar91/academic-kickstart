@@ -14,11 +14,11 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: Data Science Institute at Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work David Blei at the Data Science Institute at Columbia.  I develop machine learning methods for causal inference. I study effects from text, social influence, online debates and more.
+bio: I work with David Blei at the Data Science Institute at Columbia.  I develop machine learning methods for causal inference. I study effects from text, social influence, online debates and more.
 
 interests:
 - Causal Inference
@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/dhanya_sridhar
 - icon: envelope
   icon_pack: fas
   link: mailto:dhanya.sridhar@columbia.edu  # For a direct email link, use "mailto:test@example.org".
@@ -57,6 +60,7 @@ social:
   icon_pack: ai
   link: files/sridhar_cv.pdf
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
@@ -67,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral researcher at Columbia University working with David Blei. Broadly, I adapt probabilistic models, deep generative models, and embedding methods for causality. I apply causal inference to study political language and debates, social influence, and fairness of machine learning predictors.
+I'm a postdoctoral researcher in the Data Science Institute at Columbia University, working with <a href="http://www.cs.columbia.edu/~blei/"> David Blei. </a> My work focuses on applied causality. Broadly, I adapt modern ML and NLP methods for causal inference, especially from text data. I focus on applications to social science and algorithmic fairness.
 
-I received from PhD in computer science from University of California Santa Cruz and my PhD advisor is Lise Getoor. My thesis research extended structured prediction for understanding social media dialogue, learning causal structures like gene regulatory networks, and discovering model structure. As a graduate student, I interned at Microsoft with the Bing Ads group.
+I received my PhD from University of California Santa Cruz, where I worked with <a href="https://getoor.soe.ucsc.edu"> Lise Getoor. </a>
